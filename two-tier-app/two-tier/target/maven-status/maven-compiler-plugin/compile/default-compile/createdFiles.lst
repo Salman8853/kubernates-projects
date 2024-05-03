@@ -1,0 +1,7 @@
+com\codeadiction\service\PassengerService.class
+com\codeadiction\service\PassengerServiceImpl.class
+com\codeadiction\controller\PassengerController.class
+com\codeadiction\K8sSbDemoApplication.class
+com\codeadiction\repository\PassengerRepository.class
+com\codeadiction\config\CorsConfig.class
+com\codeadiction\entity\Passenger.class
