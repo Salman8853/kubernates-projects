@@ -1,0 +1,14 @@
+
+{{title}}
+
+<h2>Product List</h2>
+
+<ul>
+  <li *ngFor="let candidate of candidateList">
+    <p>{{ candidate.name }}</p>
+    <p>{{ candidate.email }}</p>
+    <p>{{ candidate.partyName }}</p>
+  </li>
+</ul>
+
+<router-outlet></router-outlet>
